@@ -1,0 +1,199 @@
+:root{
+    /* font size */
+    --fs-14:14px;
+    --fs-16:16px;
+    --fs-18:18px;
+    --fs-20:20px;
+    --fs-21:21px;
+    --fs-25:25px;
+    --fs-27:27px;
+    --fs-30:30px;
+    --fs-47:47px;
+    --fs-50:50px;
+    --fs-70:70px;
+
+    /* font waight */
+    --fw-400:400;
+    --fw-500:500;
+    --fw-600:600;
+    --fw-700:700;
+
+    /* font color */
+    --text-white:#fff;
+    --text-darkblue:#001D49;
+
+    /* background color */
+    --bg-blue:#031227;
+    --bg-darkblue:#000A1A;
+    --bg-lightblue:#009Dff;
+    --bd-shadowblue: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    --bg-white:#fff;
+}
+/* header */
+.f-nav-logo{
+    font-size: var(--fs-21);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-font{
+    font-style: var(--fs-18);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.f-vitae{
+    font-size: var(--fs-70);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.f-blantid{
+    font-size: var(--fs-70);
+    font-weight: var(--fw-700);
+    color: var(--text-white);
+}
+.f-semper{
+    font-size: var(--fs-20);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.btn-get{
+    font-size: var(--fs-25);
+    font-weight: var(--fw-500);
+    color: var(--text-darkblue);
+    background-color: var(--bg-white);
+}
+.btn-get:hover{
+    font-size: var(--fs-25);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+    background-color: var(--bg-darkblue);
+}
+/* 1st section */
+.bg-darkblue{
+background-color: var(--bg-darkblue);
+}
+.f-mint{
+    font-size: var(--fs-47);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-minting{
+    font-size: var(--fs-30);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.f-before{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.btn-soon{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-500);
+    color: var(--text-darkblue);
+    background-color: var(--bg-white);
+ }
+ .btn-soon:hover{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+    background-color: var(--bg-darkblue);
+ }
+.f-art{
+    font-size: var(--fs-27);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-complete{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+/* 3rd section */
+.f-roadmap{
+    font-size: var(--fs-50);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-number{
+    font-size: var(--fs-30);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-blandit{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.f-and{
+    font-size: var(--fs-30);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+/* 4th section */
+.f-font1{
+    font-size: var(--fs-50);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-blockchain{
+    font-size: var(--fs-20);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.f-hac{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.f-call{
+    font-size: var(--fs-20);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+/* 5th section */
+.f-our{
+    font-size: var(--fs-50);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-prime{
+    font-size: var(--fs-30);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-product{
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+/* footer */
+.f-join{
+    font-size: var(--fs-50);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
+.f-footer-logo{
+    font-size: var(--fs-30);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.f-aenean{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.f-email{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-400);
+    color: var(--text-white);
+}
+.f-resource{
+    font-size: var(--fs-16);
+    font-weight: var(--fw-500);
+    color: var(--text-white);
+}
+.f-bully{
+    font-size: var(--fs-14);
+    font-weight: var(--fw-600);
+    color: var(--text-white);
+}
